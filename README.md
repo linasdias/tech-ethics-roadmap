@@ -11,6 +11,7 @@
 ### Networking
 
 ### AI
+- [[IN PORTUGUESE] Canal UFABC-HAL](https://www.youtube.com/@ufabchal)
 - [Deeplearning.ai Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
